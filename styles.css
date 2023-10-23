@@ -1,2 +1,23 @@
-
 /* Your CSS Code here. */
+* {
+	margin: 0px;
+	padding: 0px;
+}
+.nav-section {
+	display:flex;
+	justify-content: space-between;
+	background-color: grey;
+}
+
+#nav-actor {
+	list-style: none;
+	
+}
+#nav-quote {
+	list-style: none;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+}
